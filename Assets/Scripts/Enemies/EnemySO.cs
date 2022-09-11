@@ -7,6 +7,7 @@ public class EnemySO : ScriptableObject
 {
     public string enemyName;
     public Sprite enemySprite;
+    public Color enemyTint;
     [Space]
     public Vector2 level;
     public Vector2 attack;

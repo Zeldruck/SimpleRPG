@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 246e639cadd8f0b44b4cfebabd619a46, type: 3}
-  m_Name: Rat
+  m_Name: M1_Rat
   m_EditorClassIdentifier: 
   enemyName: Rat
   enemySprite: {fileID: 0}

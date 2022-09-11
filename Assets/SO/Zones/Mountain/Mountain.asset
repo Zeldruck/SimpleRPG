@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e4dba5965a926564c96c854e3d9db7d2, type: 3}
-  m_Name: Mountain Zone
+  m_Name: Mountain
   m_EditorClassIdentifier: 
   zoneName: Mountain
   zoneIconSprite: {fileID: 0}
